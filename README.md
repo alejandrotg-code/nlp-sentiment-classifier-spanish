@@ -31,4 +31,4 @@ El proyecto destaca por el análisis de la **IA explicable (XAI)** y la gestión
 
 ---
 **Autor:** Alejandro Tacoronte González
-**LinkedIn:** [https://www.linkedin.com/in/alejandrotacoronte/]
+**LinkedIn:** https://www.linkedin.com/in/alejandrotacoronte/
