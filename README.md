@@ -29,6 +29,12 @@ El proyecto destaca por el análisis de la **IA explicable (XAI)** y la gestión
 2. Asegúrate de tener instaladas las dependencias: `pip install pandas scikit-learn matplotlib seaborn nltk`.
 3. Abre el archivo `.ipynb` en Jupyter Notebook o VS Code y ejecuta todas las celdas para reproducir la matriz de confusión y el reporte de clasificación.
 
+## 🚀 Futuras mejoras
+- **Ampliación del Dataset:** Integrar técnicas de Data Augmentation o recolección automatizada mediante la API de X (Twitter) para superar las 1,000 muestras y mejorar la generalización.
+- **Balanceo Avanzado:** Implementar técnicas como SMOTE (Synthetic Minority Over-sampling Technique) para gestionar clases desbalanceadas de forma sintética.
+- **Despliegue de Demo:** Creación de una interfaz interactiva en **Hugging Face Spaces** utilizando **Gradio** para pruebas en tiempo real. *En proceso*
+- **Pipeline de Preprocesamiento:** Automatizar la detección de idioma y la limpieza de emojis/URLs para hacer el modelo más robusto ante datos "sucios" de redes sociales.
+
 ---
 **Autor:** Alejandro Tacoronte González
 **LinkedIn:** https://www.linkedin.com/in/alejandrotacoronte/
